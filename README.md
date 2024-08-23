@@ -81,28 +81,20 @@ print("Lenght of X_test ",len(X_test))
 ## OUTPUT:
 ### Dataset:
 ![image](https://github.com/user-attachments/assets/87a093de-58e1-4ce2-890f-900bfbf50ddd)
-
 ### X Values:
 ![image](https://github.com/user-attachments/assets/ff0430dc-58a6-4221-bdd9-5d61f43a1659)
-
 ### Y Values:
 ![image](https://github.com/user-attachments/assets/ad643569-f6a2-4c35-9b01-704d7afed2d3)
-
 ### Null Values:
 ![image](https://github.com/user-attachments/assets/8a2ccc3a-448e-45fe-bc33-fc85ef58a47f)
-
 ### Duplicated Values:
 ![image](https://github.com/user-attachments/assets/9084e331-716e-4a7b-81eb-59db71991bf1)
-
 ### Description:
 ![image](https://github.com/user-attachments/assets/fbc82145-b1a1-47f1-af2b-1ecad239168e)
-
 ### Normalized Dataset:
 ![image](https://github.com/user-attachments/assets/aa48d922-0b62-49a6-b4fb-37018f8ae5f9)
-
 ### Training Data:
 ![image](https://github.com/user-attachments/assets/3e2501d8-3b3d-4614-b94c-93d5c6c43a58)
-
 ### Testing Data:
 ![image](https://github.com/user-attachments/assets/50cd3893-ef9f-4acc-bb43-32772452c0e4)
 
